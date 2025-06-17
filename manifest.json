@@ -1,0 +1,15 @@
+{
+  "name": "מתמטיקה בכיף עם זיו",
+  "short_name": "מתמטיקה זיו",
+  "start_url": "https://lovable.dev/projects/dce37c6a-5af4-4c11-b96b-e88c93241a00",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
